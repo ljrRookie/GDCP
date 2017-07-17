@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\progress_indeterminate_animation.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\anim\\progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alerter_pulse.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9e76123f39a9133224aeec4359eed8b14d9b3c54\\output\\res\\anim\\alerter_pulse.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alerter_slide_in_from_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9e76123f39a9133224aeec4359eed8b14d9b3c54\\output\\res\\anim\\alerter_slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_show_amination.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\anim\\dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_fragment_card_enter.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\pop_fragment_card_enter.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\anim\\dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\anim\\dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_fragment_card_exit.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\pop_fragment_card_exit.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_show_amin.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\anim\\dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_right_out.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\back_right_out.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alerter_slide_out_to_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9e76123f39a9133224aeec4359eed8b14d9b3c54\\output\\res\\anim\\alerter_slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\interpolator_slight_anticipate.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9e76123f39a9133224aeec4359eed8b14d9b3c54\\output\\res\\anim\\interpolator_slight_anticipate.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\interpolator_slight_overshoot.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9e76123f39a9133224aeec4359eed8b14d9b3c54\\output\\res\\anim\\interpolator_slight_overshoot.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_left_in.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\back_left_in.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    }
+]

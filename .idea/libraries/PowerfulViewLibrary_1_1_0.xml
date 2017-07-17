@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PowerfulViewLibrary-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/f64a09226de3d2a968b3f3225a6a38810bf76e72/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f64a09226de3d2a968b3f3225a6a38810bf76e72/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

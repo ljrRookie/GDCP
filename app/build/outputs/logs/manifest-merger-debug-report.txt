@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:2:1-137:12
+	package
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:5:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\user\.android\build-cache\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.INTERNET
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\user\.android\build-cache\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:25:22-78
+application
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:28:5-135:19
+MERGED from [cn.bmob.android:bmob-sdk:3.5.0] C:\Users\user\.android\build-cache\3925b6a70b991ac9ef098176dafe69eb0d634d49\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.vajro:MaterialDesignLibrary:1.6] C:\Users\user\.android\build-cache\5071483de2a336750f01244d8b36524e4c9963cb\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.tapadoo.android:alerter:1.0.6] C:\Users\user\.android\build-cache\9e76123f39a9133224aeec4359eed8b14d9b3c54\output\AndroidManifest.xml:12:5-18:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\user\.android\build-cache\d6b3417ed9851c837cfd5f501f34d3825902eb86\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\user\.android\build-cache\8b06052af69a9e1066a353330b328383a6b3ae30\output\AndroidManifest.xml:22:5-20
+MERGED from [com.feezu.liuli:timeselector:1.0.8] C:\Users\user\.android\build-cache\544767169b39f3e5b2db111ceaf61654110e5643\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.chaychan:PowerfulViewLibrary:1.1.0] C:\Users\user\.android\build-cache\f64a09226de3d2a968b3f3225a6a38810bf76e72\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\user\.android\build-cache\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\user\.android\build-cache\51392d05df1a29f56eca58dac116502a9b777d56\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\user\.android\build-cache\c4cb605a41978bc1edfc795cdaff7652572d1670\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\user\.android\build-cache\c1e0f2fc9925521dd25c30efb0bcee8e887d15ca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\user\.android\build-cache\032d32a28cd48ac49085e77bdaf569af917a1a24\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\user\.android\build-cache\eca08daef8c175153902618f20ac5a47cc9a11eb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\user\.android\build-cache\84c03d8d1702fb2073b63a6a8264f7540701a151\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\user\.android\build-cache\ffe2e354471c23d20bc0a1cbe9db2f6156d8cd9e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\user\.android\build-cache\a6c85a1d40f8bc94d7b195a004f2b2d78f2af4db\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:32:9-41
+	android:supportsRtl
+		ADDED from [cn.bmob.android:bmob-sdk:3.5.0] C:\Users\user\.android\build-cache\3925b6a70b991ac9ef098176dafe69eb0d634d49\output\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:31:9-45
+	android:persistent
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:33:9-34
+	android:theme
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:34:9-40
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:29:9-52
+meta-data#com.amap.api.v2.apikey
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:35:9-37:64
+	android:value
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:37:13-61
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:36:13-50
+activity#com.example.ronny_xie.gdcp.loginActivity.Splash
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:39:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.ronny_xie.gdcp.loginActivity.LoginPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:46:9-49:61
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:47:13-52
+activity#com.example.ronny_xie.gdcp.styleInActivity.styleActivity
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:50:9-76
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:50:19-64
+activity#com.example.ronny_xie.gdcp.mainActivity.MainActivity
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:51:9-54:61
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:52:13-54
+activity#com.example.ronny_xie.gdcp.Fragment.chat.CreateGroupSelectUser
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:55:9-59:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:57:13-45
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:59:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:56:13-64
+activity#com.example.ronny_xie.gdcp.Fragment.chat.page.GroupRoomListPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:60:9-65:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:62:13-45
+	android:launchMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:63:13-44
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:65:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:61:13-65
+activity#com.example.ronny_xie.gdcp.Fragment.chat.page.GroupInfoPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:66:9-70:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:68:13-45
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:70:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:67:13-61
+activity#com.example.ronny_xie.gdcp.Fragment.chat.page.UserInfoPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:72:9-77:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:74:13-45
+	android:launchMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:75:13-44
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:77:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:73:13-60
+activity#com.example.ronny_xie.gdcp.Fragment.chat.page.RoomInfoPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:78:9-82:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:80:13-45
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:82:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:79:13-60
+activity#com.example.ronny_xie.gdcp.Fragment.chat.page.ChatPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:83:9-88:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:85:13-45
+	android:launchMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:86:13-44
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:88:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:84:13-56
+activity#com.example.ronny_xie.gdcp.Fragment.chat.page.SearchPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:89:9-93:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:91:13-45
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:93:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:90:13-58
+activity#com.example.ronny_xie.gdcp.Fragment.chat.page.NotifyListPage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:94:9-98:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:97:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:96:13-45
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:98:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:95:13-62
+activity#com.example.ronny_xie.gdcp.Fragment.chat.ShowBigImage
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:100:9-105:79
+	android:screenOrientation
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:102:13-45
+	android:launchMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:103:13-43
+	android:windowSoftInputMode
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:105:13-67
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:101:13-55
+activity#com.example.ronny_xie.gdcp.MoreActivity.ShopActivity.shopActivity2
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:106:9-86
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:106:19-74
+activity#com.example.ronny_xie.gdcp.Fragment.jw2012SyetemFragment.page.jw_main_page
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:107:9-94
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:107:19-82
+activity#com.example.ronny_xie.gdcp.Fragment.jw2012SyetemFragment.MywebView
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:108:9-86
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:108:19-74
+activity#com.example.ronny_xie.gdcp.Fragment.card.CardActivity
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:109:9-73
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:109:19-61
+activity#com.example.ronny_xie.gdcp.Fragment.jw2012SyetemFragment.page.jwxscj_page
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:110:9-93
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:110:19-81
+activity#com.example.ronny_xie.gdcp.Fragment.jw2012SyetemFragment.page.jwxskb_page
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:111:9-93
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:111:19-81
+activity#com.example.ronny_xie.gdcp.Fragment.jw2012SyetemFragment.page.jwxsxx_page
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:112:9-93
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:112:19-81
+activity#com.example.ronny_xie.gdcp.Fragment.cardFragment
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:113:9-68
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:113:19-56
+activity#com.example.ronny_xie.gdcp.MoreActivity.ScheduleActivity.schedule_fragment
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:114:9-94
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:114:19-82
+activity#com.example.ronny_xie.gdcp.MoreActivity.WeatherActivity.fragment_weather
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:115:9-92
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:115:19-80
+activity#com.example.ronny_xie.gdcp.MoreActivity.ShopActivity.fragment_shop
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:116:9-86
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:116:19-74
+activity#com.example.ronny_xie.gdcp.Fragment.jwFragment
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:117:9-66
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:117:19-54
+activity#com.example.ronny_xie.gdcp.MoreActivity.ScheduleActivity.editorView
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:118:9-87
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:118:19-75
+activity#com.example.ronny_xie.gdcp.Fragment.card.TodayActivity
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:119:9-74
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:119:19-62
+activity#com.example.ronny_xie.gdcp.MoreActivity.MoreApplication
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:120:9-121:44
+	android:label
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:121:13-32
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:120:19-63
+activity#com.example.ronny_xie.gdcp.MoreActivity.EmotionActivity.fragment_emotion
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:123:9-82
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:123:19-80
+receiver#com.example.ronny_xie.gdcp.loginActivity.StartServiceReceiver
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:124:9-131:20
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:124:19-69
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:125:13-130:29
+	android:priority
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:125:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:126:17-79
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:126:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:127:17-82
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:127:25-79
+service#com.example.ronny_xie.gdcp.loginActivity.GotyeService
+ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:134:9-62
+	android:name
+		ADDED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml:134:18-60
+uses-sdk
+INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\user\.android\build-cache\c3436abbde18fe2aa98acd6a3b96457cdccbda21\output\AndroidManifest.xml:18:5-42
+MERGED from [cn.bmob.android:bmob-sdk:3.5.0] C:\Users\user\.android\build-cache\3925b6a70b991ac9ef098176dafe69eb0d634d49\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.vajro:MaterialDesignLibrary:1.6] C:\Users\user\.android\build-cache\5071483de2a336750f01244d8b36524e4c9963cb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tapadoo.android:alerter:1.0.6] C:\Users\user\.android\build-cache\9e76123f39a9133224aeec4359eed8b14d9b3c54\output\AndroidManifest.xml:7:5-10:72
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\user\.android\build-cache\72ba8bbbad713c0e0daff22745155c95ac9be9d4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.0] C:\Users\user\.android\build-cache\d6b3417ed9851c837cfd5f501f34d3825902eb86\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\user\.android\build-cache\f820278376aad5e2e3c1c6a2be6ab2f6809d4ddf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\user\.android\build-cache\8b06052af69a9e1066a353330b328383a6b3ae30\output\AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:richeditor-android:1.2.2] C:\Users\user\.android\build-cache\c7e8580262b530126e16b028c758418b6373281f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.feezu.liuli:timeselector:1.0.8] C:\Users\user\.android\build-cache\544767169b39f3e5b2db111ceaf61654110e5643\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chaychan:PowerfulViewLibrary:1.1.0] C:\Users\user\.android\build-cache\f64a09226de3d2a968b3f3225a6a38810bf76e72\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\user\.android\build-cache\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\user\.android\build-cache\51392d05df1a29f56eca58dac116502a9b777d56\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\user\.android\build-cache\c4cb605a41978bc1edfc795cdaff7652572d1670\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\user\.android\build-cache\c1e0f2fc9925521dd25c30efb0bcee8e887d15ca\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\user\.android\build-cache\032d32a28cd48ac49085e77bdaf569af917a1a24\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\user\.android\build-cache\eca08daef8c175153902618f20ac5a47cc9a11eb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\user\.android\build-cache\84c03d8d1702fb2073b63a6a8264f7540701a151\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\user\.android\build-cache\ffe2e354471c23d20bc0a1cbe9db2f6156d8cd9e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\user\.android\build-cache\a6c85a1d40f8bc94d7b195a004f2b2d78f2af4db\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\user\.android\build-cache\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.makeramen:roundedimageview:2.2.1] C:\Users\user\.android\build-cache\ff043495de758f60b6e394d0ccf825ad0b756c64\output\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.tapadoo.android:alerter:1.0.6] C:\Users\user\.android\build-cache\9e76123f39a9133224aeec4359eed8b14d9b3c54\output\AndroidManifest.xml:10:9-69
+	android:targetSdkVersion
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android_location\GDCP_life\app\src\main\AndroidManifest.xml
+activity#com.tapadoo.android.MockActivity
+ADDED from [com.tapadoo.android:alerter:1.0.6] C:\Users\user\.android\build-cache\9e76123f39a9133224aeec4359eed8b14d9b3c54\output\AndroidManifest.xml:15:9-17:59
+	android:theme
+		ADDED from [com.tapadoo.android:alerter:1.0.6] C:\Users\user\.android\build-cache\9e76123f39a9133224aeec4359eed8b14d9b3c54\output\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from [com.tapadoo.android:alerter:1.0.6] C:\Users\user\.android\build-cache\9e76123f39a9133224aeec4359eed8b14d9b3c54\output\AndroidManifest.xml:16:13-60

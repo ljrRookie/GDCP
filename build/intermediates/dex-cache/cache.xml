@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c96842fd44152adf502ddf011416de679437cad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\jsoup-1.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.7.3_c8d9530da3bb4ba735d4bf411dd5dbfa99de54c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66f6fad244533cf00d9673372d9d92bab0e78a22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\ff043495de758f60b6e394d0ccf825ad0b756c64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fbf7f48376abe3a533408c1d1480358379159ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_8f4a37bf17c38d699c69e32644f20ddcc5def32d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\hellocharts-library-1.5.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\hellocharts-library-1.5.8_4dab226c7633981aebe8be0b5db6352f3dd2b692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f011a8660b9b7048e7caa7a60e06955b31edc63b">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_f075739508803912121b9427310f18d8edc9ff3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e230d705a55e3aefe14eda8c338c675f0bb91f95">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3c8d9898d0ea8bcb40b7d5186b0ff450bdfadc33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\gotyeapi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7de71abb066e441526a4cfbc1d6a76ccc984e9fe">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\gotyeapi_7a6633a97509a49960671b538fe19f0dbdcde1b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\slidingmenu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="942c0d8b6512d787707afbe8293566c413cdb86a">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\slidingmenu_9a8790a72bcc1b77983348af2f481aee9f328d57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\cn.bmob.android\http-legacy\1.0\5320fd78dd7f154e586970d4f02befc9b58432aa\http-legacy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\10\http-legacy-1.0_dc7217b922e7fce78f6cfd3bb93b18d2ed2d8402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\tbs_sdk_thirdapp_v3.2.0.1104_43200_sharewithdownload_withfilereader_withoutGame_obfs_20170609_115346.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e58a5f3e98fddc1752eb23c37db5e4b8fc174fe3">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\tbs_sdk_thirdapp_v3.2.0.1104_43200_sharewithdownload_withfilereader_withoutGame_obfs_20170609_115346_71e99d73f95eedd2d26514436d07a69149d6ad11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_location\GDCP_life\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8ef016c8697ebba92ddf06c812e4415bdc30ed8">
+        <dex dex="E:\android_location\GDCP_life\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_7a0156a873f17b7a5c0ce8f0318adf6da9dd2d4e\classes.dex" />
+    </item>
+
+</items>

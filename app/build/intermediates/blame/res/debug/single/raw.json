@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\raw\\guide_2.mp4",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\raw\\guide_2.mp4"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    }
+]

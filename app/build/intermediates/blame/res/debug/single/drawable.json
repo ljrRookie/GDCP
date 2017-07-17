@@ -1,0 +1,1170 @@
+[
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_chat.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\slide_chat.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_searchfriend.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\fab_searchfriend.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaaall.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaaall.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_image_pressed.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_image_pressed.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_underline.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_underline.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_text_normal.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_text_normal.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_noticelist.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\message_noticelist.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_friend.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\slide_friend.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_close.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\toggle_close.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\login_button_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_leave_image.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\nav_leave_image.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_4.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\menu_4.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_italic.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_italic.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice_right_3.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice_right_3.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaashipin.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaashipin.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_not_selected.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\user_not_selected.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_time_icon.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_time_icon.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schedule_stroke_circle.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\schedule_stroke_circle.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_text_right_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_text_right_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_bg_holo_light.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\switch_bg_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop_talk.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\stop_talk.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_normal_item.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_normal_item.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop_talk_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\stop_talk_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_justify_right.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_justify_right.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_to_voice_down.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\press_to_voice_down.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\realtime_voice.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\realtime_voice.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_group.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\contact_group.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_6.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\menu_6.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dismiss_group.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\dismiss_group.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_unread.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\voice_unread.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_cancel_press.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\dialog_cancel_press.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_outdent.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_outdent.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_to_voice_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\press_to_voice_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_mission.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\slide_mission.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\72ba8bbbad713c0e0daff22745155c95ac9be9d4\\output\\res\\drawable\\button_action_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_refresh.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_refresh.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_voice_normal_right.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_voice_normal_right.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f2.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f2.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_back.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\white_back.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\change_to_text_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\change_to_text_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_huoxian.gif",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_huoxian.gif"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\\output\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_2.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_2.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press_to_voice.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\press_to_voice.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_voice_pressed_right.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_voice_pressed_right.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_dark_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\72ba8bbbad713c0e0daff22745155c95ac9be9d4\\output\\res\\drawable\\button_action_dark_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_text_pressed_right.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_text_pressed_right.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice_3.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice_3.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_bullets.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_bullets.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_open.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\toggle_open.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_h5.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_h5.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_back.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\black_back.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_voice_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_voice_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\take_photo_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\take_photo_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_liangshai.gif",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_liangshai.gif"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_schedule_triangle.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_schedule_triangle.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_nor.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\progressbar_nor.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_bg.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\input_bg.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_top_item_bg_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_top_item_bg_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaajiayong.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaajiayong.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_fail_resend.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\msg_state_fail_resend.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice_right_1.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice_right_1.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_justify_center.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_justify_center.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_h1.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_h1.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_indent.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_indent.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_0.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_0.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_card.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\slide_card.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_6.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_6.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personal_arrow.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\personal_arrow.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_5.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_5.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_subscript.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_subscript.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_fulizi.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_fulizi.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stop_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\stop_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_pls_talk.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_pls_talk.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_pulltorefresh.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_pulltorefresh.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_message.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_message.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unread_bg.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tab_unread_bg.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_bg_holo_dark.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\switch_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_7.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_7.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_top_item_bg.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_top_item_bg.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_schedule_shape.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\fragment_schedule_shape.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\take_photo.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\take_photo.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_image.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\send_image.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_user_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\selected_user_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f64a09226de3d2a968b3f3225a6a38810bf76e72\\output\\res\\drawable\\delete_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice_1.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice_1.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\menu_9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nestedscroll_layout_clickable.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\nestedscroll_layout_clickable.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\collapsing_headerimg.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\collapsing_headerimg.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_redo.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_redo.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_btn_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\voice_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f3.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\send_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice_2.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice_2.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\change_to_text.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\change_to_text.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timestampe_bg.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\timestampe_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_cancel.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\dialog_cancel.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_text_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_text_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pulltorefresh.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\pulltorefresh.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\del_flag.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\del_flag.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f3.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f3.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slidetab_bg_press.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\slidetab_bg_press.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_item_bg.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\pop_item_bg.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_room.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\contact_room.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_type.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\more_type.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error_tip_bg_img.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\error_tip_bg_img.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_add.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_add.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_focused.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_talk_ring1.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_talk_ring1.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg_focused.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_txt_color.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_txt_color.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_normal_item_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_normal_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_voice_right_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_voice_right_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_huimai.gif",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_huimai.gif"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice_right_2.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice_right_2.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_3.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\menu_3.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_groupchat.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\fab_groupchat.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_h6.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_h6.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_cancel_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\dialog_cancel_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\take_photo_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\take_photo_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_from_icon.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\voice_from_icon.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\toggle_btn.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_item_bg.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\grid_item_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_talk_ring2.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_talk_ring2.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_shape.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\textview_shape.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_pop_voice.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_pop_voice.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_image_pressed_right.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_image_pressed_right.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_top_item_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_top_item_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg_normal.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_shadow.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bar_shadow.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_type_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\more_type_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_voice_pressed.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_voice_pressed.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schedule_stroke_circle_middle.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\schedule_stroke_circle_middle.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_1.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_1.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_image_normal.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_image_normal.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_undo.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_undo.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_type_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\more_type_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_voice_playing_f1.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatfrom_voice_playing_f1.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_text_normal_right.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_text_normal_right.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_image_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\send_image_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_numbers.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_numbers.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_jw.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\slide_jw.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_btn.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\voice_btn.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_image_normal_right.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_image_normal_right.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_selected.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\user_selected.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_8.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_8.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaaxiangbao.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaaxiangbao.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_strikethrough.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_strikethrough.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_pressed.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f2.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dismiss_group_press.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\dismiss_group_press.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_addfriend.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\fab_addfriend.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaashuji.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaashuji.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_h2.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_h2.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_lib.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\slide_lib.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaadiannao.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaadiannao.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\common_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_1.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_1.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_normal.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\send_normal.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\realtime_voice_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\realtime_voice_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_anim_voice_right.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_anim_voice_right.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\change_to_text_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\change_to_text_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_discard.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\ic_action_discard.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_talk_ring.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_talk_ring.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_round_white.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_round_white.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\break_line.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\break_line.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\to_right_go.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\to_right_go.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_4.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_4.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg_normal.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_room_group_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\contact_room_group_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_input_bg.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chat_input_bg.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_superscript.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_superscript.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_time_tip.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_time_tip.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_normal_item_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\tools_normal_item_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dismiss_group_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\dismiss_group_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_voice_playing_f1.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_image_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\send_image_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\72ba8bbbad713c0e0daff22745155c95ac9be9d4\\output\\res\\drawable\\button_sub_action_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_to_icon.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\voice_to_icon.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_yusan.gif",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_yusan.gif"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_3.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_3.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_insert_image.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_insert_image.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_justify_left.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_justify_left.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_meibian.gif",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_meibian.gif"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\send_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_9.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\bg_9.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ok.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_ok.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_ziwaixian.gif",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_ziwaixian.gif"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_text_pressed.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_text_pressed.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaayundong.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaayundong.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_btn_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\voice_btn_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_icon_user.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\head_icon_user.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_h3.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_h3.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_h4.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_h4.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_bg_color.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_bg_color.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_dark_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\72ba8bbbad713c0e0daff22745155c95ac9be9d4\\output\\res\\drawable\\button_sub_action_dark_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_insert_link.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_insert_link.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_schedule_icon.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_schedule_icon.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\to_info_normal.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\to_info_normal.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_bold.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\editor_bold.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotye_bg_msg_voice_normal.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\gotye_bg_msg_voice_normal.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_fail_resend_pressed.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\msg_state_fail_resend_pressed.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_jiaotong.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_jiaotong.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_icon.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\query_icon.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_chuanyi.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_chuanyi.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_moresearch.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\fab_moresearch.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mini_avatar_shadow.9.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\mini_avatar_shadow.9.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaajiaju.jpg",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\aaajiaju.jpg"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error_tip_bg.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\error_tip_bg.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\realtime_voice_press.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\realtime_voice_press.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\net_work_error_tip.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\net_work_error_tip.png"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_shushidu.png",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\drawable\\weather_shushidu.png"
+    }
+]

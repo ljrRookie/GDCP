@@ -1,0 +1,7 @@
+#Mon Jul 17 11:26:47 CST 2017
+base.0=E\:\\android_location\\GDCP_life\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c96842fd44152adf502ddf011416de679437cad7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\android_location\\GDCP_life\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3c8d9898d0ea8bcb40b7d5186b0ff450bdfadc33\\classes.dex
+base.1=E\:\\android_location\\GDCP_life\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3c8d9898d0ea8bcb40b7d5186b0ff450bdfadc33
+file.0=E\:\\android_location\\GDCP_life\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c96842fd44152adf502ddf011416de679437cad7\\classes.dex

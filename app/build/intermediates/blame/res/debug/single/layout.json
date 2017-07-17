@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_bar_include.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\main_bar_include.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_schedule_spinner_more.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_schedule_spinner_more.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message_page.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_message_page.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shop_main_list.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_shop_main_list.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_audio_recorder_ring.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_audio_recorder_ring.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alerter_alert_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9e76123f39a9133224aeec4359eed8b14d9b3c54\\output\\res\\layout\\alerter_alert_view.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_foot_view.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\dialog_foot_view.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_expand_collapse.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f64a09226de3d2a968b3f3225a6a38810bf76e72\\output\\res\\layout\\item_expand_collapse.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_contacts_item.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_row_received_message.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_moreview_page.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_moreview_page.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_linearlayout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f64a09226de3d2a968b3f3225a6a38810bf76e72\\output\\res\\layout\\expandable_linearlayout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindows_weather_listview.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindows_weather_listview.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_shop_details.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_shop_details.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_footview_load_more.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\dialog_footview_load_more.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jwxscj.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_jwxscj.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_weather_second_data.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_weather_second_data.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_pulllist_head.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_pulllist_head.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mock.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9e76123f39a9133224aeec4359eed8b14d9b3c54\\output\\res\\layout\\activity_mock.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_row_received_voice.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_group_room_item.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_group_room_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_item_delete.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_item_delete.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jwxskb.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_jwxskb.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_shop_login.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_shop_login.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_today_main.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_card_today_main.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_competerroom.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_competerroom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_info.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_card_psw.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_card_psw.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\spinner_dropdown.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_setting.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_login_setting.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_schedule_spinner.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_schedule_spinner.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jwxscj.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_jwxscj.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_card_today_listview.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_card_today_listview.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_room_group_page.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_room_group_page.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notify_page.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_notify_page.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_error_tip.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\dialog_error_tip.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_header_view.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\navigation_header_view.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_today.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_card_today.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_row_sent_voice.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grib_item.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\grib_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_group_owner.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_change_group_owner.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_weater_weibo.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_weater_weibo.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_row_received_picture.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3925b6a70b991ac9ef098176dafe69eb0d634d49\\output\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_weather_deatils.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_weather_deatils.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete_member.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\dialog_delete_member.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_contact_tools.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_contact_tools.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_group_msg_mark.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_group_msg_mark.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jw_news.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_jw_news.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_room_info.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_room_info.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_weather_second.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_weather_second.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_jw_login.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_jw_login.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_emotion.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\acitivity_emotion.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_schedule_editor_view.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_schedule_editor_view.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_select_contacts_item.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_select_contacts_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_info.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_group_info.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_schedule.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_schedule.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_weather_main.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_weather_main.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jwxsxx.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_jwxsxx.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_login.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_card_login.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_chat_stanger.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_chat_stanger.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chage_group_owner_item.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_chage_group_owner_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_schedule.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\acitivity_schedule.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_old_view.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\navigation_old_view.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6a2c557f288b9cd3965a34fe3e96cd9541e8fb5\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jwxskb.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_jwxskb.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shop_main.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_shop_main.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_row_sent_picture.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_row_sent_message.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\inflate_row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\544767169b39f3e5b2db111ceaf61654110e5643\\output\\res\\layout\\dialog_selector.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_main.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_card_main.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_jwxw.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_jwxw.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_welcome.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\layout_welcome.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jw_mian.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_jw_mian.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\5071483de2a336750f01244d8b36524e4c9963cb\\output\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_user.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\fragment_select_user.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weather.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_weather_newday.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\popwindow_weather_newday.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_weather_item.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\adapter_weather_item.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\84bea91ee316a9a06d56c807eb6ba3a5a9636b61\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\d6b3417ed9851c837cfd5f501f34d3825902eb86\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\android_location\\GDCP_life\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_style.xml",
+        "source": "E:\\android_location\\GDCP_life\\app\\src\\main\\res\\layout\\activity_style.xml"
+    }
+]
